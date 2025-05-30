@@ -1,3 +1,5 @@
+/* DDL - Data Definition Language. CREATE, ALTER, DROP*/
+
 -- Creating the database
 CREATE DATABASE MySalesDB;  -- Uncomment this if you haven't created it yet
 
