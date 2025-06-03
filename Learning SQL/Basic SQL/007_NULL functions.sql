@@ -45,3 +45,4 @@ id,
 score,
 id/NULLIF(score, 0) -- it prevents from division by zero error
 FROM sales
+
