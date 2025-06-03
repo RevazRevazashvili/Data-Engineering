@@ -49,3 +49,4 @@ CREATE TABLE orders (
 -- Dropping the email column from customers (only if it existed)
 -- This line is now unnecessary, since the email column was removed in the table definition
 ALTER TABLE customers DROP COLUMN email;
+
