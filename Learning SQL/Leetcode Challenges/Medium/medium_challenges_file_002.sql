@@ -39,4 +39,6 @@ FROM DailyTotals
 ORDER BY visited_on
 OFFSET 6 ROWS;
 
+
 SELECT value FROM STRING_SPLIT('Lorem ipsum dolor sit amet.', ' ');
+
